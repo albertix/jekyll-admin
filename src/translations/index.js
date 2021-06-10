@@ -6,7 +6,7 @@
 // import * as ptBr from './ptBr';
 // import * as sv from './sv';
 
-import * as en from './en';
+import * as cn from './cn';
 
-const translations = en; // TODO: select language
+const translations = cn; // TODO: select language
 export default translations;
